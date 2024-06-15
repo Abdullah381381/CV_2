@@ -1,0 +1,12 @@
+export 'package:flutter/material.dart';
+export 'package:flutter_svg/flutter_svg.dart';
+export 'package:cv_project/presentation/widgets/edit_text_border.dart';
+export 'package:cv_project/presentation/widgets/svg_picture_app.dart';
+export 'package:cv_project/presentation/widgets/text_app.dart';
+export 'package:cv_project/core/resources/colors_app.dart';
+export 'package:cv_project/presentation/ui/auth/sign_up.dart';
+export 'package:cv_project/presentation/widgets/button_app.dart';
+export 'package:cv_project/presentation/widgets/go.dart';
+export 'package:cv_project/presentation/widgets/hiden_key_board.dart';
+export 'package:cv_project/presentation/widgets/cached_network_image_app.dart';
+export 'package:cv_project/presentation/widgets/header_page.dart';
